@@ -1,5 +1,6 @@
 ```markdown
-# Hi, I'm Jonathan 👋
+[![IchKaueHolz's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchKaueHolz)]
+# Hi, I'm Jonathan 
 Student at Heidelberg University • Python & C++ • Embedded systems (Arduino, Raspberry Pi)
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IchKaueHolz)](https://github.com/IchKaueHolz)
