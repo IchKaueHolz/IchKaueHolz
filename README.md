@@ -41,7 +41,7 @@ I'm open to:
 
 ## Contact / Socials
 - GitHub: https://github.com/IchKaueHolz
-- Email: (info@jon-systems.com)
+- Email: info@jon-systems.com
 
 ---
 
