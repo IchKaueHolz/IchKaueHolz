@@ -1,4 +1,4 @@
-```markdown
+
 [![IchKaueHolz's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchKaueHolz)]
 # Hi, I'm Jonathan 
 Student at Heidelberg University • Python & C++ • Embedded systems (Arduino, Raspberry Pi)
@@ -46,5 +46,4 @@ I'm open to:
 
 ---
 
-Thanks for stopping by — if you want this README to be more colorful, more compact, or to include badges, screenshots, GIFs, or a pinned-project gallery, tell me which style you prefer and I’ll update it.
-```
+Thanks for stopping by
